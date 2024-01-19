@@ -1,1 +1,2 @@
-main 08:18 19.01.2024 FB
+main 08:18 19.01.2024 " Pierwsza rewizja." FB
+main 09:21 19.01.2024 "Druga rewizja." JK
